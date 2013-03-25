@@ -43,3 +43,7 @@ For configuration, simply copy ``config.yml.dist`` to ``config.yml`` and fill in
 You can take a look at the [scrutinizer-client library](https://github.com/scrutinizer-ci/workflow-php-client) for a
 reference implementation in PHP, but in general you can use any other programming language by publishing messages to
 one of the queues that Scrutinizer workflow makes available.
+=======
+WorkflowBundle
+==============
+
